@@ -9,8 +9,6 @@
 
 AI-assisted hunting produces longer, prettier, more confident reports. The underlying bugs often don't survive a triager who actually re-runs the PoC. `bugbounty-triage` runs that triage for you, on your own report, before you submit. If it validates, your odds of a clean accept from a real triager go up. Not a guarantee.
 
-Web2 only: HackerOne, YesWeHack, Bugcrowd, Intigriti, and self-hosted programs.
-
 ## What it does
 
 When you ask "triage this", `bugbounty-triage`:
