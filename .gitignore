@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local Claude state
+.claude/
+.claude.local.json
+settings.local.json
+
+# Test fixtures / scratch
+scratch/
+*.local.md
